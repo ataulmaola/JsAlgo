@@ -1,4 +1,4 @@
-const {StackObject}=require('./stack')
+const {StackObject}=require('../lib/stack/stackObject')
 
 
 function decimalToBinary(decNumber) {
