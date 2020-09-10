@@ -1,0 +1,11 @@
+{
+  "name": "jsalgo",
+  "version": "1.0.0",
+  "description": "\"Javascript Algorithms Library \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Ataul Maola Anas\"",
+  "license": "ISC"
+}
